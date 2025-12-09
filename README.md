@@ -1,0 +1,1 @@
+# analyst-trainee-projects
