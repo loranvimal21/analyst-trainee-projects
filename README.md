@@ -1,18 +1,12 @@
-# Ticket Management Database
+# Analyst Trainee Projects
 
-This project shows how to create a simple database for storing support tickets.
+This repository contains three small projects created for Analyst / Trainee roles.
 
-### What this is:
-A sample project to show:
-- How a ticket table works
-- Fields like ticket_id, user_name, issue, status, created_date
-- Basic SQL insert, update and select queries
+## Folders:
+- **01_ticket_db** — simple ticket database (CSV + Python script)
+- **02_linux_scripts** — basic Linux shell scripts
+- **03_cloud_lab** — small AWS cloud lab
 
-### What I did:
-- Created a sample ticket table
-- Inserted dummy ticket data
-- Ran queries to filter by status (open/closed)
-- Designed a simple workflow of how tickets move from "Open → In Progress → Closed"
-
-### Why this project:
-This shows basic database understanding, which is useful for Analyst Trainee roles.
+## How to use:
+1. Click into any folder.
+2. Open the README.md inside that folder to read instructions.
