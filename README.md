@@ -1,4 +1,4 @@
-# Analyst Trainee Projects
+# Ticket Management System
 
 This repository contains three small projects .
 
