@@ -1,6 +1,6 @@
 # Analyst Trainee Projects
 
-This repository contains three small projects created for Analyst / Trainee roles.
+This repository contains three small projects .
 
 ## Folders:
 - **01_ticket_db** — simple ticket database (CSV + Python script)
